@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ffac2e2193b94210397dbd6cebba10b7" label="Asset" max_length="40" name="x_1307894_cmms_asset" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Asset Number" max_length="40" name="asset_number" type="string"/>
+        <element attributes="encode_utf8=false" label="Support Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element dependent="campus" dependent_on_field="campus" label="Building" max_length="32" name="building" reference="x_1307894_cmms_site" type="reference" use_dependent_field="true"/>
+        <element label="Campus" max_length="32" name="campus" reference="x_1307894_cmms_campus" type="reference"/>
+        <element attributes="encode_utf8=false" label="Asset Type" max_length="32" name="category" reference="x_1307894_cmms_category" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="500" name="comments" type="string"/>
+        <element dependent="building" dependent_on_field="building" label="Floor" max_length="32" name="floor" reference="x_1307894_cmms_floor" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Installed date" max_length="40" name="installed_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Known as" max_length="100" name="known_as" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location description" max_length="100" name="location_description" type="string"/>
+        <element attributes="encode_utf8=false" label="Manufacturer" max_length="32" name="manufacturer" reference="x_1307894_cmms_company" type="reference"/>
+        <element attributes="encode_utf8=false" label="Model" max_length="32" name="model" reference="x_1307894_cmms_model" type="reference"/>
+        <element attributes="encode_utf8=false" label="Model number" max_length="32" name="model_number" reference="x_1307894_cmms_model" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Original cost" max_length="20" name="original_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="owning_cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PM last completed" max_length="40" name="pm_last_completed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="PM start date" max_length="40" name="pm_start_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Support Tech" max_length="32" name="pm_technician" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchase date" max_length="40" name="purchase_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial number" max_length="40" name="serial_number" type="string"/>
+        <element attributes="encode_utf8=false" label="Service vendor" max_length="32" name="service_vendor" reference="x_1307894_cmms_company" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Warranty expiration" max_length="40" name="warranty_expiration" type="glide_date"/>
+        <index name="index">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index2">
+            <element name="building"/>
+        </index>
+        <index name="index3">
+            <element name="campus"/>
+        </index>
+        <index name="index4">
+            <element name="category"/>
+        </index>
+        <index name="index5">
+            <element name="floor"/>
+        </index>
+        <index name="index6">
+            <element name="manufacturer"/>
+        </index>
+        <index name="index7">
+            <element name="model"/>
+        </index>
+        <index name="index8">
+            <element name="model_number"/>
+        </index>
+        <index name="index9">
+            <element name="pm_technician"/>
+        </index>
+        <index name="index10">
+            <element name="service_vendor"/>
+        </index>
+        <index name="index11">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

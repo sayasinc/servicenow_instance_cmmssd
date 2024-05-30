@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="49f6f8ed93fd0210397dbd6cebba1028" label="Company" max_length="40" name="x_1307894_cmms_company" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Biomed Company" max_length="40" name="biomed_company" type="boolean"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Company Notes" max_length="500" name="company_notes" type="string"/>
+        <element label="Contact Name" max_length="40" name="contact_name" type="string"/>
+        <element label="Facility Company" max_length="40" name="facility_company" type="boolean"/>
+        <element label="Manufacturer" max_length="40" name="manufacturer" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="47" name="name" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Inactive" sequence="2" value="inactive"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Vendor" max_length="40" name="vendor" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Website" max_length="1024" name="website" type="url"/>
+        <element label="Zip Code" max_length="40" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

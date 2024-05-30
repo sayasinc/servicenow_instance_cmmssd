@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="57a36d2d93f14210397dbd6cebba105d" label="Models" max_length="40" name="x_1307894_cmms_model" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="AEM Approved Date" max_length="40" name="aem_approved_date" type="glide_date"/>
+        <element choice="1" label="Alarms" max_length="4000" name="alarms" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="No alarms" sequence="0" value="no alarms"/>
+                <element inactive_on_update="false" label="Physiological" sequence="1" value="physiological"/>
+                <element inactive_on_update="false" label="Technical" sequence="2" value="technical"/>
+            </choice>
+        </element>
+        <element label="Asset Type" max_length="32" name="asset_type" reference="x_1307894_cmms_category" reference_qual="state=active" reference_qual_condition="state=active" type="reference"/>
+        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" read_only="true" reference="x_1307894_cmms_users" type="reference"/>
+        <element label="Classification" max_length="32" name="classification" type="string"/>
+        <element label="Display Name" max_length="40" name="display_name" type="string"/>
+        <element label="EOL Date" max_length="40" name="eol_date" type="glide_date"/>
+        <element label="Identifier Class" max_length="40" name="identifier" type="string"/>
+        <element label="Internal Notes" max_length="1000" name="internal_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Known as" max_length="40" name="known_as" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PM review date" max_length="40" name="last_pm_review_date" type="glide_date"/>
+        <element label="List Price" mandatory="true" max_length="20" name="list_price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Maintenance" mandatory="true" max_length="4485" name="maintenance" type="string"/>
+        <element choice="1" label="Maintenance Intervals" max_length="4000" name="maintenance_intervals" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="1 Week Scripps" sequence="0" value="1 week scripps"/>
+                <element inactive_on_update="false" label="1 Month Scripps" sequence="1" value="1 month scripps"/>
+                <element inactive_on_update="false" label="1 Year Scripps" sequence="2" value="1 year scripps"/>
+                <element inactive_on_update="false" label="6 Month Scripps" sequence="3" value="6 month scripps"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Maintenance Standard " max_length="40" name="maintenance_standard" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AEM" sequence="0" value="aem"/>
+                <element inactive_on_update="false" label="Matches Mfg" sequence="1" value="matches mfg"/>
+                <element inactive_on_update="false" label="Matches Applicable Regulations" sequence="2" value="matches applicable regulations"/>
+                <element inactive_on_update="false" label="ASHRAE" sequence="3" value="ashrae"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Maintenance Strategy" max_length="40" name="maintenance_strategy" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Preventive/Scheduled" sequence="0" value="preventive/scheduled"/>
+                <element inactive_on_update="false" label="Predictive" sequence="1" value="predictive"/>
+                <element inactive_on_update="false" label="Diagnostic/Detective" sequence="2" value="diagnostic/detective"/>
+                <element inactive_on_update="false" label="Evidence Based" sequence="3" value="evidence based"/>
+                <element inactive_on_update="false" label="Corrective Only" sequence="4" value="corrective only"/>
+            </choice>
+        </element>
+        <element label="Manufacturer" max_length="32" name="manufacturer" reference="x_1307894_cmms_company" reference_qual="status=active" reference_qual_condition="status=active" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Model name" mandatory="true" max_length="40" name="model_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Model number" mandatory="true" max_length="40" name="model_number" type="string"/>
+        <element choice="1" choice_field="phi_storage" choice_table="x_1307894_cmms_model" label="Network Capability" mandatory="true" max_length="40" name="network_capability" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="PHI Storage" mandatory="true" max_length="40" name="phi_storage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element choice="1" label="Probability" mandatory="true" max_length="40" name="probability" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Unlikely (1)" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Rare (2)" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Occassional (3)" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Frequent (4)" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Processed by" max_length="32" name="processed_by" read_only="true" reference="x_1307894_cmms_users" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Proposed on" max_length="40" name="proposed_on" read_only="true" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Proposer Reviewed" max_length="32" name="proposer_reviewed" read_only="true" reference="x_1307894_cmms_users" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason for No PM" max_length="40" name="reason_for_no_pm" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AEM" sequence="0" value="aem"/>
+                <element inactive_on_update="false" label="MFG" sequence="1" value="mfg"/>
+            </choice>
+        </element>
+        <element choice="1" label="References" max_length="4000" name="references" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Service Manual" sequence="0" value="service manual"/>
+                <element inactive_on_update="false" label="ASHRAE" sequence="1" value="ashrae"/>
+                <element inactive_on_update="false" label="User Manual" sequence="2" value="user manual"/>
+                <element inactive_on_update="false" label="MDS2" sequence="3" value="mds2"/>
+                <element inactive_on_update="false" label="No Attachments" sequence="4" value="no attachments"/>
+                <element inactive_on_update="false" label="EOL Letter" sequence="5" value="eol letter"/>
+            </choice>
+        </element>
+        <element choice="1" label="Risk" max_length="40" name="risk" type="string">
+            <choice>
+                <element inactive_on_update="false" label="High Risk" sequence="0" value="high risk"/>
+                <element inactive_on_update="false" label="Non-high Risk" sequence="1" value="non-high risk"/>
+            </choice>
+        </element>
+        <element label="Risk score" max_length="40" name="risk_score" type="integer"/>
+        <element choice="1" label="Severity" mandatory="true" max_length="40" name="severity" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Low (1)" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Medium (2)" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="High (3)" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Major (4)" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Life Support (8)" sequence="4" value="8"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Proposed" sequence="0" value="proposed"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Active" sequence="2" value="active"/>
+                <element inactive_on_update="false" label="Retired" sequence="3" value="retired"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Sub-State" max_length="40" name="sub_state" type="string"/>
+        <element label="System" max_length="40" name="system" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="UDI" max_length="40" name="udi" type="string"/>
+        <element label="Useful Life (Yrs)" mandatory="true" max_length="40" name="useful_life_yrs" type="integer"/>
+        <element label="Website" max_length="40" name="website" type="url"/>
+        <index name="index">
+            <element name="asset_type"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index3">
+            <element name="classification"/>
+        </index>
+        <index name="index4">
+            <element name="manufacturer"/>
+        </index>
+        <index name="index5">
+            <element name="processed_by"/>
+        </index>
+        <index name="index6">
+            <element name="proposer_reviewed"/>
+        </index>
+        <index name="index7">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

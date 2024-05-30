@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app cmmsfacilitiestechworkspace">ae8b941e93d68210397dbd6cebba105c</applicability>
+        <list display_value="All">7e8b941e93d68210397dbd6cebba10f1</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 02:35:37</sys_created_on>
+        <sys_id>f68bd41e93d68210397dbd6cebba1011</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_f68bd41e93d68210397dbd6cebba1011</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 02:35:37</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 23:08:41</sys_created_on>
+        <sys_id>d849ace993bd0210397dbd6cebba1093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1307894_cmms_company.x_1307894_cmms.admin_dept</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_security_acl display_value="x_1307894_cmms_company">9849ace993bd0210397dbd6cebba1090</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d849ace993bd0210397dbd6cebba1093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 23:08:41</sys_updated_on>
+        <sys_user_role display_value="x_1307894_cmms.admin_dept" name="x_1307894_cmms.admin_dept">fb6348a993f90210397dbd6cebba10a5</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_security_acl_role_d849ace993bd0210397dbd6cebba1093</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-25 23:08:41</sys_created_on><sys_id>d849ace993bd0210397dbd6cebba1093</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1307894_cmms_company.x_1307894_cmms.admin_dept</sys_name><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_security_acl display_value="x_1307894_cmms_company">9849ace993bd0210397dbd6cebba1090</sys_security_acl><sys_update_name>sys_security_acl_role_d849ace993bd0210397dbd6cebba1093</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-25 23:08:41</sys_updated_on><sys_user_role display_value="x_1307894_cmms.admin_dept" name="x_1307894_cmms.admin_dept">fb6348a993f90210397dbd6cebba10a5</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1199412148</payload_hash>
+        <record_name>x_1307894_cmms_company.x_1307894_cmms.admin_dept</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 23:08:42</sys_created_on>
+        <sys_id>9049ece993bd0210397dbd6cebba1038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1784acdd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 23:08:42</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9849ace931bd0210891f7e7ca04fa695</update_guid>
+        <update_guid_history>9849ace931bd0210891f7e7ca04fa695:1199412148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1307894_cmms_company.x_1307894_cmms.admin_dept">9099682d93bd0210397dbd6cebba10d4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 23:10:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>02e3110b070247508aa87db5befe3e40</sys_id>
+        <sys_metadata>d849ace993bd0210397dbd6cebba1093</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1307894_cmms_company.x_1307894_cmms.admin_dept</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent display_value="">9849ace993bd0210397dbd6cebba1090</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d849ace993bd0210397dbd6cebba1093</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d849ace993bd0210397dbd6cebba1093">9049ece993bd0210397dbd6cebba1038</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 23:10:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

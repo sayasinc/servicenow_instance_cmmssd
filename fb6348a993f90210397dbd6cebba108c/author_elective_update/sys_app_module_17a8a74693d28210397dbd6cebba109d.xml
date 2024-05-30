@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="CMMS San Diego ">10d3e7ce93928210397dbd6cebba10e7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Facilities Equipment list view - ALL</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Facilities Equipment</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1307894_cmms_asset</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1307894_cmms.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:54:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17a8a74693d28210397dbd6cebba109d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities Equipment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_app_module_17a8a74693d28210397dbd6cebba109d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:54:46</sys_updated_on>
+        <timeline_page/>
+        <title>Facilities Equipment</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_app_module_17a8a74693d28210397dbd6cebba109d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CMMS San Diego ">10d3e7ce93928210397dbd6cebba10e7</application><assessment/><device_type/><filter/><hint>Facilities Equipment list view - ALL</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Facilities Equipment</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1307894_cmms_asset</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1307894_cmms.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-22 22:54:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>17a8a74693d28210397dbd6cebba109d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Facilities Equipment</sys_name><sys_overrides/><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sys_app_module_17a8a74693d28210397dbd6cebba109d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-22 22:54:46</sys_updated_on><timeline_page/><title>Facilities Equipment</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2032896731</payload_hash>
+        <record_name>Facilities Equipment</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:54:46</sys_created_on>
+        <sys_id>eff8eb8693d28210397dbd6cebba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa283a1710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:54:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a3f8eb8693d28210db38c43289ca6cb8</update_guid>
+        <update_guid_history>a3f8eb8693d28210db38c43289ca6cb8:2032896731</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Facilities Equipment">cae967c693d28210397dbd6cebba10f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:58:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>712258fad9f442c384c08be8c4b48bc1</sys_id>
+        <sys_metadata>17a8a74693d28210397dbd6cebba109d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities Equipment</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_app_module_17a8a74693d28210397dbd6cebba109d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_17a8a74693d28210397dbd6cebba109d">eff8eb8693d28210397dbd6cebba10b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:58:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

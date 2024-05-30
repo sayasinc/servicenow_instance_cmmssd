@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1307894_cmms_company" version="2" view="workspace-cmms-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>f99b1c1e93d68210397dbd6cebba1040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>fd9b1c1e93d68210397dbd6cebba1040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>website</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>f19b1c1e93d68210397dbd6cebba1041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>facility_company</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>f59b1c1e93d68210397dbd6cebba1041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>biomed_company</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>b19b1c1e93d68210397dbd6cebba104e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>b59b1c1e93d68210397dbd6cebba104e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vendor</element>
+            <list_id display_value="x_1307894_cmms_company" element="NULL" name="x_1307894_cmms_company" parent="NULL" relationship="NULL" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">719b1c1e93d68210397dbd6cebba1040</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_id>b99b1c1e93d68210397dbd6cebba104e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1307894_cmms_company</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>719b1c1e93d68210397dbd6cebba1040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1307894_cmms_company</sys_name>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_ui_list_x_1307894_cmms_company_workspace-cmms-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace CMMS 0" name="workspace-cmms-0">a18b541eb9d68210f1ccb203c3bbb62e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

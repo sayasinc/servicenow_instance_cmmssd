@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="CMMS San Diego ">10d3e7ce93928210397dbd6cebba10e7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Facilities Equipment List - All</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>New Asset</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1307894_cmms_asset</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1307894_cmms.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:47:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8047efc293d28210397dbd6cebba10f3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Facilities Equipment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_app_module_8047efc293d28210397dbd6cebba10f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:51:49</sys_updated_on>
+        <timeline_page/>
+        <title>Facilities Equipment</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_app_module_8047efc293d28210397dbd6cebba10f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CMMS San Diego ">10d3e7ce93928210397dbd6cebba10e7</application><assessment/><device_type/><filter/><hint>Facilities Equipment List - All</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>New Asset</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1307894_cmms_asset</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1307894_cmms.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-22 22:47:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8047efc293d28210397dbd6cebba10f3</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Facilities Equipment</sys_name><sys_overrides/><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sys_app_module_8047efc293d28210397dbd6cebba10f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-22 22:51:49</sys_updated_on><timeline_page/><title>Facilities Equipment</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>693431315</payload_hash>
+        <record_name>Facilities Equipment</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:51:49</sys_created_on>
+        <sys_id>e4582f4693d28210397dbd6cebba1022</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa280eeff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:51:49</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2c582f466cd28210cfaa424c8f853521</update_guid>
+        <update_guid_history>2c582f466cd28210cfaa424c8f853521:693431315,303863464ed28210e80a922b3474012b:1994844132,3528ef0693d28210e4d830e5cc495e16:255725138,ed67efc27bd28210eb19b648cb8a2cde:693431315,8447efc216d282101a5c06ecd3c593f5:255725138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Facilities Equipment">f7782f4693d28210397dbd6cebba1052</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 22:52:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>02bc0be2e8eb41ae9d4bef0597886404</sys_id>
+        <sys_metadata>8047efc293d28210397dbd6cebba10f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities Equipment</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_app_module_8047efc293d28210397dbd6cebba10f3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8047efc293d28210397dbd6cebba10f3">e4582f4693d28210397dbd6cebba1022</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 22:52:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

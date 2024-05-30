@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bbdff06d93314210397dbd6cebba1023" label="Asset Type" max_length="40" name="x_1307894_cmms_category" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Report group" max_length="40" name="category_group" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Air System" sequence="0" value="air system"/>
+                <element inactive_on_update="false" label="Biomedical Equipment" sequence="1" value="biomedical equipment"/>
+                <element inactive_on_update="false" label="Chiller" sequence="2" value="chiller"/>
+                <element inactive_on_update="false" label="Emergency Lighting" sequence="3" value="emergency lighting"/>
+                <element inactive_on_update="false" label="EPS Various" sequence="4" value="eps various"/>
+                <element inactive_on_update="false" label="Exit Sign" sequence="5" value="exit sign"/>
+                <element inactive_on_update="false" label="Fan" sequence="6" value="fan"/>
+                <element inactive_on_update="false" label="Filter" sequence="7" value="filter"/>
+                <element inactive_on_update="false" label="Fire Alarm" sequence="8" value="fire alarm"/>
+                <element inactive_on_update="false" label="Fire Door" sequence="9" value="fire door"/>
+                <element inactive_on_update="false" label="Fire Equipment" sequence="10" value="fire equipment"/>
+                <element inactive_on_update="false" label="Fire Extinguisher" sequence="11" value="fire extinguisher"/>
+                <element inactive_on_update="false" label="Fire Pump" sequence="12" value="fire pump"/>
+                <element inactive_on_update="false" label="FS Various" sequence="13" value="fs various"/>
+                <element inactive_on_update="false" label="Generator" sequence="14" value="generator"/>
+                <element inactive_on_update="false" label="HVAC Various" sequence="15" value="hvac various"/>
+                <element inactive_on_update="false" label="IC Various" sequence="16" value="ic various"/>
+                <element inactive_on_update="false" label="Medsun" sequence="17" value="medsun"/>
+                <element inactive_on_update="false" label="Pump" sequence="18" value="pump"/>
+                <element inactive_on_update="false" label="Tank" sequence="19" value="tank"/>
+                <element inactive_on_update="false" label="Vacuum" sequence="20" value="vacuum"/>
+                <element inactive_on_update="false" label="Water System" sequence="21" value="water system"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element attributes="encode_utf8=false" label="Domain" max_length="32" name="domain" reference="sys_user_group" type="reference"/>
+        <element choice="1" label="Identifier Class" mandatory="true" max_length="40" name="identifier_class" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Fixed" sequence="0" value="fixed"/>
+                <element inactive_on_update="false" label="Mobile" sequence="1" value="mobile"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="52" name="name" type="string"/>
+        <element label="Protected Class" max_length="40" name="protected_class" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Classification" mandatory="true" max_length="40" name="reportable" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Utility" sequence="0" value="utility"/>
+                <element inactive_on_update="false" label="Non-Utility" sequence="1" value="non-Utility"/>
+                <element inactive_on_update="false" label="Medical" sequence="2" value="medical"/>
+                <element inactive_on_update="false" label="Non-medical" sequence="3" value="non-medical"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Subclass" max_length="40" name="reportable_attribute" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Fire Safety" sequence="0" value="fire safety"/>
+                <element inactive_on_update="false" label="Infection Control" sequence="1" value="infection control"/>
+                <element inactive_on_update="false" label="Diagnostic Imaging" sequence="2" value="diagnostic imaging"/>
+                <element inactive_on_update="false" label="Therapeutic Laser" sequence="3" value="therapeutic laser"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="System" max_length="40" name="reportable_system" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Boiler &amp; Steam" sequence="0" value="boiler and steam"/>
+                <element inactive_on_update="false" label="Communication &amp; Data Exchange" sequence="1" value="communication and data exchange"/>
+                <element inactive_on_update="false" label="Electrical Distribution" sequence="2" value="electrical distribution"/>
+                <element inactive_on_update="false" label="HVAC" sequence="3" value="hvac"/>
+                <element inactive_on_update="false" label="Piped Gases" sequence="4" value="piped gases"/>
+                <element inactive_on_update="false" label="Plumbing" sequence="5" value="plumbing"/>
+                <element inactive_on_update="false" label="Refrigeration (Built-in)" sequence="6" value="refrigeration built-in"/>
+                <element inactive_on_update="false" label="Vacuum Systems" sequence="7" value="vacuum systems"/>
+                <element inactive_on_update="false" label="Vertical &amp; Horizontal Transport" sequence="8" value="vertical and horizontal transport"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ECRI Code" max_length="40" name="source" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" mandatory="true" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Inactive" sequence="2" value="inactive"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="domain"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

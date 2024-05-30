@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_1307894_cmms_asset" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_1307894_cmms_asset</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>99770c7993718210397dbd6cebba10c8</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_imp_tmpl_x_1307894_cmms_asset</sys_name>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2024-04-26 15:33:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_ui_list_u_imp_tmpl_x_1307894_cmms_asset_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_1307894_cmms_asset" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_imp_tmpl_x_1307894_cmms_asset</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>99770c7993718210397dbd6cebba10c8</sys_id><sys_mod_count/><sys_name>u_imp_tmpl_x_1307894_cmms_asset</sys_name><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2024-04-26 15:33:32</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1334214937</payload_hash>
+        <record_name>Imp Tmpl X 1307894 Cmms Asset</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 15:33:32</sys_created_on>
+        <sys_id>36aa80bd93718210397dbd6cebba1092</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1b0a52bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 15:33:32</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>faaa80bd537182102394fb3900631091</update_guid>
+        <update_guid_history>faaa80bd537182102394fb3900631091:-1334214937,f6aa80bd17718210769290a8b532f28b:1684458684</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 21:58:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>8068c0b50e714b0489e503ce22e16464</sys_id>
+        <sys_metadata>0109d07193f18210397dbd6cebba108a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_1307894_cmms_asset</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent display_value="">cd770c7993718210397dbd6cebba10aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_ui_list_u_imp_tmpl_x_1307894_cmms_asset_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_u_imp_tmpl_x_1307894_cmms_asset_null">36aa80bd93718210397dbd6cebba1092</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 21:58:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

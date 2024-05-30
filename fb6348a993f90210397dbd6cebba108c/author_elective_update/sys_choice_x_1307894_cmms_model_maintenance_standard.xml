@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="maintenance_standard" table="x_1307894_cmms_model" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>maintenance_standard</element>
+            <name>x_1307894_cmms_model</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 07:36:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>maintenance_standard</sys_name>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_choice_x_1307894_cmms_model_maintenance_standard</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 07:36:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_standard</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AEM</label>
+            <language>en</language>
+            <name>x_1307894_cmms_model</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 07:36:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 07:36:04</sys_updated_on>
+            <value>aem</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_standard</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Matches Mfg</label>
+            <language>en</language>
+            <name>x_1307894_cmms_model</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 07:36:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 07:36:04</sys_updated_on>
+            <value>matches mfg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_standard</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Matches Applicable Regulations</label>
+            <language>en</language>
+            <name>x_1307894_cmms_model</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 07:36:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 07:36:04</sys_updated_on>
+            <value>matches applicable regulations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_standard</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ASHRAE</label>
+            <language>en</language>
+            <name>x_1307894_cmms_model</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 07:36:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 07:36:04</sys_updated_on>
+            <value>ashrae</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

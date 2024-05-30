@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <description>ETL definition for Category Data Mapping</description>
+        <name>Category Data Mapping_etl_ihub</name>
+        <on_after_script><![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]></on_after_script>
+        <on_after_script_bool>false</on_after_script_bool>
+        <on_before_script><![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]></on_before_script>
+        <on_before_script_bool>false</on_before_script_bool>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:40:48</sys_created_on>
+        <sys_id>a55e30e593314210397dbd6cebba10ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category Data Mapping_etl_ihub</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_a55e30e593314210397dbd6cebba10ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:40:48</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_rte_eb_etl_definition_a55e30e593314210397dbd6cebba10ea</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_etl_definition"&gt;&lt;sys_rte_eb_etl_definition action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;description&gt;ETL definition for Category Data Mapping&lt;/description&gt;&lt;name&gt;Category Data Mapping_etl_ihub&lt;/name&gt;&lt;on_after_script&gt;&lt;![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]&gt;&lt;/on_after_script&gt;&lt;on_after_script_bool&gt;false&lt;/on_after_script_bool&gt;&lt;on_before_script&gt;&lt;![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]&gt;&lt;/on_before_script&gt;&lt;on_before_script_bool&gt;false&lt;/on_before_script_bool&gt;&lt;sys_class_name&gt;sys_rte_eb_etl_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-26 00:40:48&lt;/sys_created_on&gt;&lt;sys_id&gt;a55e30e593314210397dbd6cebba10ea&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Category Data Mapping_etl_ihub&lt;/sys_name&gt;&lt;sys_package display_value="CMMS" source="x_1307894_cmms"&gt;fb6348a993f90210397dbd6cebba108c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CMMS"&gt;fb6348a993f90210397dbd6cebba108c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_etl_definition_a55e30e593314210397dbd6cebba10ea&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-26 00:40:48&lt;/sys_updated_on&gt;&lt;/sys_rte_eb_etl_definition&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-536489299</payload_hash>
+        <record_name>Category Data Mapping_etl_ihub</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:40:48</sys_created_on>
+        <sys_id>6d5e30e593314210397dbd6cebba10ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f17d900bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:40:48</sys_updated_on>
+        <type>ETL Definition</type>
+        <update_guid>215e30e52b314210bb441d54f13209ec</update_guid>
+        <update_guid_history>215e30e52b314210bb441d54f13209ec:-536489299</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:45:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_definition">sys_rte_eb_etl_definition</sys_db_object>
+        <sys_id>555a1400d2e94db09b17c514137cd0e4</sys_id>
+        <sys_metadata>a55e30e593314210397dbd6cebba10ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category Data Mapping_etl_ihub</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_definition_a55e30e593314210397dbd6cebba10ea</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_definition_a55e30e593314210397dbd6cebba10ea">6d5e30e593314210397dbd6cebba10ec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:45:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

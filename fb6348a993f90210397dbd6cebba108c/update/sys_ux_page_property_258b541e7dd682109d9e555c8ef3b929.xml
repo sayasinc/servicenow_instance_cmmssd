@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="CMMS">658b541ed3d68210ad80e1e6daa86937</page>
+        <required_translations>[ {
+  "message" : "New Asset",
+  "comment" : ""
+}, {
+  "message" : "New Asset Type",
+  "comment" : ""
+}, {
+  "message" : "New Campus",
+  "comment" : ""
+}, {
+  "message" : "New Company",
+  "comment" : ""
+}, {
+  "message" : "New Floor",
+  "comment" : ""
+}, {
+  "message" : "New Models",
+  "comment" : ""
+}, {
+  "message" : "New Site",
+  "comment" : ""
+}, {
+  "message" : "New Users",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 02:35:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>258b541e7dd682109d9e555c8ef3b929</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_ux_page_property_258b541e7dd682109d9e555c8ef3b929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 02:35:40</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1307894_cmms.658b541ed3d68210ad80e1e6daa86937.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Asset"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_asset","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_asset","canCreate":true}}},{"label":{"translatable":true,"message":"New Asset Type"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_category","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_category","canCreate":true}}},{"label":{"translatable":true,"message":"New Campus"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_campus","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_campus","canCreate":true}}},{"label":{"translatable":true,"message":"New Company"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_company","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_company","canCreate":true}}},{"label":{"translatable":true,"message":"New Floor"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_floor","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_floor","canCreate":true}}},{"label":{"translatable":true,"message":"New Models"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_model","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_model","canCreate":true}}},{"label":{"translatable":true,"message":"New Site"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_site","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_site","canCreate":true}}},{"label":{"translatable":true,"message":"New Users"},"routeInfo":{"route":"record","fields":{"table":"x_1307894_cmms_users","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1307894_cmms_users","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=258b541e7dd682109d9e555c8ef3b929"/>
+</record_update>

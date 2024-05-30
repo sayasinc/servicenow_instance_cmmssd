@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_concat_operation">
+    <sys_rte_eb_concat_operation action="DELETE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <joining_string/>
+        <name>CONCAT_sn_ihub_target_department</name>
+        <operation_group/>
+        <order>9999</order>
+        <source_sys_rte_eb_field/>
+        <source_sys_rte_eb_fields>c26cc8a5933d0210397dbd6cebba10a1,866cc8a5933d0210397dbd6cebba10a3</source_sys_rte_eb_fields>
+        <sys_class_name>sys_rte_eb_concat_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 21:02:40</sys_created_on>
+        <sys_id>5e6cc8a5933d0210397dbd6cebba10fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CONCAT_sn_ihub_target_department</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Assets Data Mapping_etl_ihub">b649802593f90210397dbd6cebba1087</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1307894_cmms_assets">8a6cc8a5933d0210397dbd6cebba107c</sys_rte_eb_entity>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_rte_eb_concat_operation_5e6cc8a5933d0210397dbd6cebba10fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 21:02:40</sys_updated_on>
+        <target_sys_rte_eb_field display_value="sn_ihub_target_department">c26cc8a5933d0210397dbd6cebba10a1</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Concatenation">4e38102a73b333002b6265a751ab9e1f</type>
+    </sys_rte_eb_concat_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_rte_eb_concat_operation_5e6cc8a5933d0210397dbd6cebba10fd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_concat_operation"&gt;&lt;sys_rte_eb_concat_operation action="INSERT_OR_UPDATE"&gt;&lt;conditional_fields/&gt;&lt;conditional_script&gt;&lt;![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i &lt; batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]&gt;&lt;/conditional_script&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;joining_string/&gt;&lt;name&gt;CONCAT_sn_ihub_target_department&lt;/name&gt;&lt;operation_group/&gt;&lt;order&gt;9999&lt;/order&gt;&lt;source_sys_rte_eb_field/&gt;&lt;source_sys_rte_eb_fields&gt;c26cc8a5933d0210397dbd6cebba10a1,866cc8a5933d0210397dbd6cebba10a3&lt;/source_sys_rte_eb_fields&gt;&lt;sys_class_name&gt;sys_rte_eb_concat_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-25 21:02:40&lt;/sys_created_on&gt;&lt;sys_id&gt;5e6cc8a5933d0210397dbd6cebba10fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;CONCAT_sn_ihub_target_department&lt;/sys_name&gt;&lt;sys_package display_value="CMMS" source="x_1307894_cmms"&gt;fb6348a993f90210397dbd6cebba108c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="Assets Data Mapping_etl_ihub"&gt;b649802593f90210397dbd6cebba1087&lt;/sys_rte_eb_definition&gt;&lt;sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1307894_cmms_assets"&gt;8a6cc8a5933d0210397dbd6cebba107c&lt;/sys_rte_eb_entity&gt;&lt;sys_scope display_value="CMMS"&gt;fb6348a993f90210397dbd6cebba108c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_concat_operation_5e6cc8a5933d0210397dbd6cebba10fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-25 21:02:40&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_field display_value="sn_ihub_target_department"&gt;c26cc8a5933d0210397dbd6cebba10a1&lt;/target_sys_rte_eb_field&gt;&lt;target_sys_rte_eb_fields/&gt;&lt;type display_value="Concatenation"&gt;4e38102a73b333002b6265a751ab9e1f&lt;/type&gt;&lt;/sys_rte_eb_concat_operation&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1266359256</payload_hash>
+        <record_name>CONCAT_sn_ihub_target_department</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 21:02:40</sys_created_on>
+        <sys_id>9a6cc8a5933d0210397dbd6cebba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f17114ad20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 21:02:40</sys_updated_on>
+        <type>RTE Entity Concatenation Operation</type>
+        <update_guid>5e6cc8a55e3d0210abdc8c60771112fe</update_guid>
+        <update_guid_history>5e6cc8a55e3d0210abdc8c60771112fe:1266359256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 23:12:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_concat_operation">sys_rte_eb_concat_operation</sys_db_object>
+        <sys_id>0e8d6b9cfe7a4ff5866874be6067ac41</sys_id>
+        <sys_metadata>5e6cc8a5933d0210397dbd6cebba10fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CONCAT_sn_ihub_target_department</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_concat_operation_5e6cc8a5933d0210397dbd6cebba10fd</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_concat_operation_5e6cc8a5933d0210397dbd6cebba10fd">9a6cc8a5933d0210397dbd6cebba10ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 23:12:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

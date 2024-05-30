@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="fd9bd81e93d68210397dbd6cebba10e5" sys_domain="global" table="x_1307894_cmms_company" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b59bd81e93d68210397dbd6cebba10ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307894_cmms_company" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">fd9bd81e93d68210397dbd6cebba10e5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">b19bd81e93d68210397dbd6cebba10e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>799b1c1e93d68210397dbd6cebba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307894_cmms_company" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">fd9bd81e93d68210397dbd6cebba10e5</sys_ui_form>
+            <sys_ui_section caption="Company info" display_value="Company info" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">359b1c1e93d68210397dbd6cebba1091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce9b1c1e93d68210397dbd6cebba10a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307894_cmms_company" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">fd9bd81e93d68210397dbd6cebba10e5</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">359b1c1e93d68210397dbd6cebba1098</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1307894_cmms_company</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd9bd81e93d68210397dbd6cebba10e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1307894_cmms_company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_fd9bd81e93d68210397dbd6cebba10e5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace CMMS 0" name="workspace-cmms-0">a18b541eb9d68210f1ccb203c3bbb62e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

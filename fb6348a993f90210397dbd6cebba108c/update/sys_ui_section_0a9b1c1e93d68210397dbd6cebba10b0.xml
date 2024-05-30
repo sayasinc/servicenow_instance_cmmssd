@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0a9b1c1e93d68210397dbd6cebba10b0" sys_domain="global" table="x_1307894_cmms_floor" version="3" view="workspace-cmms-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>da9b5c1e93d68210397dbd6cebba103d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>campus</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>d29b5c1e93d68210397dbd6cebba103e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>c29b5c1e93d68210397dbd6cebba103c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>ca9b5c1e93d68210397dbd6cebba103a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>da9b5c1e93d68210397dbd6cebba103c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>c29b5c1e93d68210397dbd6cebba103b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>d29b5c1e93d68210397dbd6cebba103d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_id>ca9b5c1e93d68210397dbd6cebba103b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307894_cmms_floor" sys_domain="global" view="a18b541eb9d68210f1ccb203c3bbb62e">0a9b1c1e93d68210397dbd6cebba10b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1307894_cmms_floor</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-23 02:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a9b1c1e93d68210397dbd6cebba10b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1307894_cmms_floor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_ui_section_0a9b1c1e93d68210397dbd6cebba10b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-23 02:35:51</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace CMMS 0" name="workspace-cmms-0">a18b541eb9d68210f1ccb203c3bbb62e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

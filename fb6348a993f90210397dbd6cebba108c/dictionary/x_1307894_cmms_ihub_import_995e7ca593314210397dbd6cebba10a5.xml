@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="be0f34e993314210397dbd6cebba10dd" extends="sys_import_set_row" label="Category Data Mapping" max_length="40" name="x_1307894_cmms_ihub_import_995e7ca593314210397dbd6cebba10a5" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset classification" label="Asset classification" max_length="40" name="u_asset_classification" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Category group" label="Category group" max_length="40" name="u_category_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="52" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Protected class" label="Protected class" max_length="40" name="u_protected_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reportable" label="Reportable" max_length="40" name="u_reportable" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reportable attribute" label="Reportable attribute" max_length="40" name="u_reportable_attribute" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reportable system" label="Reportable system" max_length="40" name="u_reportable_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short name" label="Short name" max_length="40" name="u_short_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source" label="Source" max_length="40" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

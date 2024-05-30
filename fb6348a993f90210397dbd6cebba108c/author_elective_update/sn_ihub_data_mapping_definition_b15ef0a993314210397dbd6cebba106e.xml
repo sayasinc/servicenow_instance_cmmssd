@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>595e7ca593314210397dbd6cebba10a6</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:40:48</sys_created_on>
+        <sys_id>b15ef0a993314210397dbd6cebba106e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_b15ef0a993314210397dbd6cebba106e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:40:49</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sn_ihub_data_mapping_definition_b15ef0a993314210397dbd6cebba106e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>595e7ca593314210397dbd6cebba10a6</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:40:48</sys_created_on><sys_id>b15ef0a993314210397dbd6cebba106e</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_b15ef0a993314210397dbd6cebba106e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:40:49</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>-1054161299</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>322834b97db1311076daf29f52070d4e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-26 00:45:01</sys_created_on>
+        <sys_id>574fb42d93314210397dbd6cebba10cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f17dcdb9b0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:45:01</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>534fb42dce3142101cbe0b5a7d4db2cb</update_guid>
+        <update_guid_history>534fb42dce3142101cbe0b5a7d4db2cb:0,5b4fb42d23314210928f302f29044bc8:0,4e5e34a960314210e655cf73089d5d29:1718683538,f55ef0a9f431421064c9de188ca2796f:1199457031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1b4fb42d93314210397dbd6cebba10cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:45:01</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>170eba0652d041128cd08680609e0519</sys_id>
+        <sys_metadata>b15ef0a993314210397dbd6cebba106e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_b15ef0a993314210397dbd6cebba106e</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_b15ef0a993314210397dbd6cebba106e">574fb42d93314210397dbd6cebba10cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:45:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

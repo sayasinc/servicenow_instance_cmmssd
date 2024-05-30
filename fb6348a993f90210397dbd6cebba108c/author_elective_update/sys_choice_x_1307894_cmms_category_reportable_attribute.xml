@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reportable_attribute" table="x_1307894_cmms_category" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reportable_attribute</element>
+            <name>x_1307894_cmms_category</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 01:20:01</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reportable_attribute</sys_name>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_choice_x_1307894_cmms_category_reportable_attribute</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 01:20:01</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reportable_attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fire Safety</label>
+            <language>en</language>
+            <name>x_1307894_cmms_category</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 01:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 01:20:01</sys_updated_on>
+            <value>fire safety</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reportable_attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Infection Control</label>
+            <language>en</language>
+            <name>x_1307894_cmms_category</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 01:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 01:20:01</sys_updated_on>
+            <value>infection control</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reportable_attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diagnostic Imaging</label>
+            <language>en</language>
+            <name>x_1307894_cmms_category</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 01:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 01:55:47</sys_updated_on>
+            <value>diagnostic imaging</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reportable_attribute</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Therapeutic Laser</label>
+            <language>en</language>
+            <name>x_1307894_cmms_category</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 01:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 01:55:47</sys_updated_on>
+            <value>therapeutic laser</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

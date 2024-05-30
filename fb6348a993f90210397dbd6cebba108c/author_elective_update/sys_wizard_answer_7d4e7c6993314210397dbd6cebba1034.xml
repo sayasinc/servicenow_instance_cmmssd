@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Category</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Category</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">560bf16393333110397dbd6cebba10b0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:40:33</sys_created_on>
+        <sys_id>7d4e7c6993314210397dbd6cebba1034</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_wizard_answer_7d4e7c6993314210397dbd6cebba1034</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:40:33</sys_updated_on>
+        <table/>
+        <target_url>x_1307894_cmms_category.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_wizard_answer_7d4e7c6993314210397dbd6cebba1034</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Category</answer><button_label/><dependent_value/><element/><name>Category</name><next_question/><order>100</order><payload_name/><question display_value="Application File" name="Application File">560bf16393333110397dbd6cebba10b0</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:40:33</sys_created_on><sys_id>7d4e7c6993314210397dbd6cebba1034</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Category</sys_name><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sys_wizard_answer_7d4e7c6993314210397dbd6cebba1034</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:40:33</sys_updated_on><table/><target_url>x_1307894_cmms_category.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-196633853</payload_hash>
+        <record_name>Category</record_name>
+        <reverted_from/>
+        <source>5036471193310210397dbd6cebba1086</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-04-25 15:55:52</sys_created_on>
+        <sys_id>8c4ff02d93314210397dbd6cebba10de</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18f15f867400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>4c4ff02d01314210f4362c9a9c7e02de</update_guid>
+        <update_guid_history>4c4ff02d01314210f4362c9a9c7e02de:-196633853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:44:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>2a836b06953f414098cb8a663b705669</sys_id>
+        <sys_metadata>7d4e7c6993314210397dbd6cebba1034</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent display_value="Application File">560bf16393333110397dbd6cebba10b0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_7d4e7c6993314210397dbd6cebba1034</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_7d4e7c6993314210397dbd6cebba1034">8c4ff02d93314210397dbd6cebba10de</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:44:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

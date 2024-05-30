@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Assets</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Assets</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Asset" name="Asset">a28d237047622100158b949b6c9a710d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 20:48:36</sys_created_on>
+        <sys_id>183944a1933d0210397dbd6cebba10d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_wizard_answer_183944a1933d0210397dbd6cebba10d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 20:48:36</sys_updated_on>
+        <table/>
+        <target_url>x_1307894_cmms_assets.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_wizard_answer_183944a1933d0210397dbd6cebba10d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Assets</answer><button_label/><dependent_value/><element/><name>Assets</name><next_question/><order>100</order><payload_name/><question display_value="Asset" name="Asset">a28d237047622100158b949b6c9a710d</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-25 20:48:36</sys_created_on><sys_id>183944a1933d0210397dbd6cebba10d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assets</sys_name><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sys_wizard_answer_183944a1933d0210397dbd6cebba10d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-25 20:48:36</sys_updated_on><table/><target_url>x_1307894_cmms_assets.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-253429644</payload_hash>
+        <record_name>Assets</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 20:48:36</sys_created_on>
+        <sys_id>d83944a1933d0210397dbd6cebba10d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f17046c6b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 20:48:36</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>1c3944a1b13d02104ab860d36edddbd7</update_guid>
+        <update_guid_history>1c3944a1b13d02104ab860d36edddbd7:-253429644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 23:11:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>567355024aaf4cbe9278890145882dc4</sys_id>
+        <sys_metadata>183944a1933d0210397dbd6cebba10d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent display_value="Asset">a28d237047622100158b949b6c9a710d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_183944a1933d0210397dbd6cebba10d5</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_183944a1933d0210397dbd6cebba10d5">d83944a1933d0210397dbd6cebba10d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 23:11:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1307894_cmms.Audience for app cmmsfacilitiestechworkspace</api_name>
+        <description/>
+        <name>Audience for app cmmsfacilitiestechworkspace</name>
+        <role_names/>
+        <roles>047348a993f90210397dbd6cebba10d4,fb6348a993f90210397dbd6cebba10a5,776348a993f90210397dbd6cebba1094,0c7348a993f90210397dbd6cebba10a8,8c7348a993f90210397dbd6cebba10ab</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 02:35:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ae8b941e93d68210397dbd6cebba105c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app cmmsfacilitiestechworkspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_ux_applicability_ae8b941e93d68210397dbd6cebba105c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 02:35:36</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

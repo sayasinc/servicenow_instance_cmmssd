@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Activities" section_id="0a093ca193314210397dbd6cebba107e" sys_domain="global" table="x_1307894_cmms_company" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 00:17:38</sys_created_on>
+            <sys_id>ca093ca193314210397dbd6cebba10da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 00:17:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 00:17:38</sys_created_on>
+            <sys_id>c2093ca193314210397dbd6cebba10db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 00:17:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 00:17:38</sys_created_on>
+            <sys_id>ca093ca193314210397dbd6cebba10db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 00:17:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Activities</caption>
+            <header>false</header>
+            <name>x_1307894_cmms_company</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 00:17:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a093ca193314210397dbd6cebba107e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1307894_cmms_company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+            <sys_update_name>sys_ui_section_0a093ca193314210397dbd6cebba107e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 00:17:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CMMS">fb6348a993f90210397dbd6cebba108c</application>
+        <file_path/>
+        <instance_id>5ccd7f96dbbaf114caf99027c59619a7</instance_id>
+        <instance_name>dev231237</instance_name>
+        <name>sys_ui_section_0a093ca193314210397dbd6cebba107e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Activities" section_id="0a093ca193314210397dbd6cebba107e" sys_domain="global" table="x_1307894_cmms_company" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_by</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:17:38</sys_created_on><sys_id>ca093ca193314210397dbd6cebba10da</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:17:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:17:38</sys_created_on><sys_id>c2093ca193314210397dbd6cebba10db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:17:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:17:38</sys_created_on><sys_id>ca093ca193314210397dbd6cebba10db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_1307894_cmms_company" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">0a093ca193314210397dbd6cebba107e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:17:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Activities</caption><header>false</header><name>x_1307894_cmms_company</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 00:17:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0a093ca193314210397dbd6cebba107e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1307894_cmms_company</sys_name><sys_overrides/><sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package><sys_policy/><sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope><sys_update_name>sys_ui_section_0a093ca193314210397dbd6cebba107e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 00:17:37</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-882056020</payload_hash>
+        <record_name>Company</record_name>
+        <reverted_from/>
+        <source>7f6348a993f90210397dbd6cebba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:17:38</sys_created_on>
+        <sys_id>06093ca193314210397dbd6cebba10ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f17c3c9430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:17:38</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8a093ca17231421014a003c88bae8ae9</update_guid>
+        <update_guid_history>8a093ca17231421014a003c88bae8ae9:-882056020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:18:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>17e4bb6e386249908dfa1323327b0100</sys_id>
+        <sys_metadata>0a093ca193314210397dbd6cebba107e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activities</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_parent display_value="Company">49f6f8ed93fd0210397dbd6cebba1028</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_scope_delete display_value="">1cbc0131e0724198afdb643c35489824</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0a093ca193314210397dbd6cebba107e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0a093ca193314210397dbd6cebba107e">06093ca193314210397dbd6cebba10ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 00:18:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

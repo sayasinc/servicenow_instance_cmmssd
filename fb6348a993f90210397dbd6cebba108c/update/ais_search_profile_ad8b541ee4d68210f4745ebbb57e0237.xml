@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for CMMS</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>cmmsfacilitiestechworkspace Search Profile</label>
+        <name>x_1307894_cmms_csngeeg_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 02:35:32</sys_created_on>
+        <sys_id>ad8b541ee4d68210f4745ebbb57e0237</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cmmsfacilitiestechworkspace Search Profile</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>ais_search_profile_ad8b541ee4d68210f4745ebbb57e0237</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 02:35:41</sys_updated_on>
+    </ais_search_profile>
+</record_update>
