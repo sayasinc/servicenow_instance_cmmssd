@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cdbcee2193b94210397dbd6cebba1056</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_asset">
+    <x_1307894_cmms_asset action="INSERT_OR_UPDATE">
+        <asset_number>10025</asset_number>
+        <assignment_group display_value="Facilities-SMHLJ" name="Facilities-SMHLJ">435dc029933d0210397dbd6cebba10e0</assignment_group>
+        <building display_value="Browning Building">b9294f69933d4210397dbd6cebba1078</building>
+        <campus display_value="Scripps Memorial Hospital La Jolla Campus">36a672ad93b94210397dbd6cebba1026</campus>
+        <category display_value="Fire Door, Smoke Barrier Corridor">f4ef346d93314210397dbd6cebba1078</category>
+        <comments>Regulatory References:
+NFPA 105-2010 (5.2.1)
+NFPA 101-2012 (7.2.1.5.10.1 ; 7.2.1.5.11 ; 7.2.1.15)
+NFPA 80-2010 (4.8.4 ; 5.2.1 ; 5.2.3 ; 5.2.4 ; 5.2.6 ; 5.2.7 ; 6.3.1.7)</comments>
+        <floor/>
+        <installed_date>2021-03-19</installed_date>
+        <known_as/>
+        <location_description>HALL</location_description>
+        <manufacturer display_value="VARIES">43f6bced93fd0210397dbd6cebba1041</manufacturer>
+        <model/>
+        <model_number/>
+        <original_cost>1</original_cost>
+        <owning_cost_center>Admittng/Access-LJ</owning_cost_center>
+        <pm_last_completed>2024-04-23</pm_last_completed>
+        <pm_start_date>2022-04-01</pm_start_date>
+        <pm_technician/>
+        <purchase_date>2010-02-04</purchase_date>
+        <serial_number>NONE</serial_number>
+        <service_vendor/>
+        <sys_class_name>x_1307894_cmms_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 08:43:00</sys_created_on>
+        <sys_id>cdbcee2193b94210397dbd6cebba1056</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 15:25:56</sys_updated_on>
+        <warranty_expiration/>
+    </x_1307894_cmms_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:51:41</sys_created_on>
+        <sys_id>e3cb0cb893e60210397dbd6cebba1062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10025</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_e3cb0cb893e60210397dbd6cebba1062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:51:41</sys_updated_on>
+        <tablename>x_1307894_cmms_asset</tablename>
+    </sys_metadata_link>
+</record_update>

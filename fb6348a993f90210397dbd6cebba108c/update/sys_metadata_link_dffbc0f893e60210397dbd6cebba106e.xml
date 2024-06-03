@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f0b3ed2d93f14210397dbd6cebba109f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_model">
+    <x_1307894_cmms_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aem_approved_date/>
+        <alarms/>
+        <asset_type display_value="Pump, Motor">81ef346d93314210397dbd6cebba10a4</asset_type>
+        <assigned_to/>
+        <classification/>
+        <display_name/>
+        <eol_date/>
+        <identifier/>
+        <internal_notes/>
+        <known_as/>
+        <last_pm_review_date>2022-08-03</last_pm_review_date>
+        <maintenance>Schedules: 4 Month
+Procedures:
+Check motor amperage/voltage
+Check for vibration/unusual noise
+Check motor mount
+Lube if applicable
+
+Performed by: vendor</maintenance>
+        <maintenance_intervals/>
+        <maintenance_standard>Matches other non-regulatory requirement</maintenance_standard>
+        <maintenance_strategy>Preventive/Scheduled</maintenance_strategy>
+        <manufacturer display_value="Weg">0bf6bced93fd0210397dbd6cebba1049</manufacturer>
+        <model_name>01018EP3E215T</model_name>
+        <model_number>01018EP3E215T</model_number>
+        <network_capability/>
+        <phi_storage/>
+        <picture/>
+        <probability>2</probability>
+        <processed_by/>
+        <proposed_on/>
+        <proposer_reviewed/>
+        <reason_for_no_pm/>
+        <references/>
+        <risk/>
+        <risk_score>4</risk_score>
+        <severity>2</severity>
+        <state>Active</state>
+        <sub_state/>
+        <sys_class_name>x_1307894_cmms_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 03:24:02</sys_created_on>
+        <sys_id>f0b3ed2d93f14210397dbd6cebba109f</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 19:51:40</sys_updated_on>
+        <system/>
+        <udi/>
+        <useful_life_yrs/>
+        <website/>
+    </x_1307894_cmms_model>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:52:29</sys_created_on>
+        <sys_id>dffbc0f893e60210397dbd6cebba106e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>01018EP3E215T</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_dffbc0f893e60210397dbd6cebba106e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:52:29</sys_updated_on>
+        <tablename>x_1307894_cmms_model</tablename>
+    </sys_metadata_link>
+</record_update>

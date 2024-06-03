@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7cb3ed2d93f14210397dbd6cebba10ea</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_model">
+    <x_1307894_cmms_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aem_approved_date/>
+        <alarms/>
+        <asset_type display_value="Water Softener Tank Filtered">09ef346d93314210397dbd6cebba10ce</asset_type>
+        <assigned_to/>
+        <classification/>
+        <display_name/>
+        <eol_date/>
+        <identifier/>
+        <internal_notes/>
+        <known_as/>
+        <last_pm_review_date>2022-12-07</last_pm_review_date>
+        <maintenance>Schedules: monthly, 6 month, 2 year
+Procedures:
+Monthly
+General cleaning
+check for leaks
+
+Perform following monthly procedure per water management company:
+1. Open the bottom valve or bottom drain of the heat exchanger or tank, and allow water to evacuate for 10-seconds. Representative photos are provided below.
+2. Repeat above step 2-more times (3-times total), or until water exiting the tank is clear, showing no signs of sludge or debris present.
+
+approved by D. Kuchner 2/16/22
+
+6 month
+Check condition of carbon filtration media and replace as needed
+
+2 year
+Check and remove build up of sediments, iron, foreign materials as needed from
+Pilot valve assembly
+Brunermatic valve
+Pilot strainer
+Check and remove build up of sediment, iron, other foreign materials as needed from backwash flow controller
+
+Performed by: scripps tech</maintenance>
+        <maintenance_intervals/>
+        <maintenance_standard>Matches other non-regulatory requirement</maintenance_standard>
+        <maintenance_strategy>Preventive/Scheduled</maintenance_strategy>
+        <manufacturer display_value="Culligan Water">86f63ced93fd0210397dbd6cebba10e8</manufacturer>
+        <model_name>10107286</model_name>
+        <model_number>10107286</model_number>
+        <network_capability/>
+        <phi_storage/>
+        <picture/>
+        <probability>1</probability>
+        <processed_by/>
+        <proposed_on/>
+        <proposer_reviewed/>
+        <reason_for_no_pm/>
+        <references/>
+        <risk/>
+        <risk_score>2</risk_score>
+        <severity>2</severity>
+        <state>Active</state>
+        <sub_state/>
+        <sys_class_name>x_1307894_cmms_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 03:24:02</sys_created_on>
+        <sys_id>7cb3ed2d93f14210397dbd6cebba10ea</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 19:51:40</sys_updated_on>
+        <system/>
+        <udi/>
+        <useful_life_yrs/>
+        <website/>
+    </x_1307894_cmms_model>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:52:28</sys_created_on>
+        <sys_id>4ffbc0f893e60210397dbd6cebba1025</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10107286</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_4ffbc0f893e60210397dbd6cebba1025</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:52:28</sys_updated_on>
+        <tablename>x_1307894_cmms_model</tablename>
+    </sys_metadata_link>
+</record_update>

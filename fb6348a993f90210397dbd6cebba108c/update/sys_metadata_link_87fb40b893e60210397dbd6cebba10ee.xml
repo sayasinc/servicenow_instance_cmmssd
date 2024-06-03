@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>30b3ed2d93f14210397dbd6cebba10e4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_model">
+    <x_1307894_cmms_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aem_approved_date/>
+        <alarms/>
+        <asset_type display_value="Alarm, Medical Gas">f0ef346d93314210397dbd6cebba1038</asset_type>
+        <assigned_to/>
+        <classification/>
+        <display_name/>
+        <eol_date/>
+        <identifier/>
+        <internal_notes/>
+        <known_as>Chemetron Medical Gas Master Alarm</known_as>
+        <last_pm_review_date>2022-03-17</last_pm_review_date>
+        <maintenance>Schedules: monthly
+Procedures:
+Test master medical gas alarms by activating test switch and making sure lamps and annunciators are operating properly.  
+Repair as necessary.
+
+Performed by: Scripps tech</maintenance>
+        <maintenance_intervals/>
+        <maintenance_standard>Matches other regulatory requirements</maintenance_standard>
+        <maintenance_strategy>Preventive/Scheduled</maintenance_strategy>
+        <manufacturer display_value="Allied Medical LLC">3df63ced93fd0210397dbd6cebba1080</manufacturer>
+        <model_name>081005</model_name>
+        <model_number>081005</model_number>
+        <network_capability/>
+        <phi_storage/>
+        <picture/>
+        <probability>1</probability>
+        <processed_by/>
+        <proposed_on/>
+        <proposer_reviewed/>
+        <reason_for_no_pm/>
+        <references/>
+        <risk/>
+        <risk_score>8</risk_score>
+        <severity>8</severity>
+        <state>Active</state>
+        <sub_state/>
+        <sys_class_name>x_1307894_cmms_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 03:24:02</sys_created_on>
+        <sys_id>30b3ed2d93f14210397dbd6cebba10e4</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 19:51:40</sys_updated_on>
+        <system/>
+        <udi/>
+        <useful_life_yrs/>
+        <website/>
+    </x_1307894_cmms_model>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:52:27</sys_created_on>
+        <sys_id>87fb40b893e60210397dbd6cebba10ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>081005</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_87fb40b893e60210397dbd6cebba10ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:52:27</sys_updated_on>
+        <tablename>x_1307894_cmms_model</tablename>
+    </sys_metadata_link>
+</record_update>

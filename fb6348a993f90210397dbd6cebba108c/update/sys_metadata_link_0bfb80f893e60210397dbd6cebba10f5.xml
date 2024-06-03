@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3cb3ed2d93f14210397dbd6cebba10a0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_model">
+    <x_1307894_cmms_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aem_approved_date/>
+        <alarms/>
+        <asset_type display_value="Emergency Eyewash Station">fcef346d93314210397dbd6cebba105d</asset_type>
+        <assigned_to/>
+        <classification/>
+        <display_name/>
+        <eol_date/>
+        <identifier/>
+        <internal_notes/>
+        <known_as/>
+        <last_pm_review_date>2022-06-06</last_pm_review_date>
+        <maintenance>Schedules: Weekly, Monthly, 1 year
+Procedures:
+Weekly
+Every week activate to flush unit and check surrounding area to ensure no obstructions or equipment blocking access in or around eyewash station.
+Check to ensure there are no sharp objects in area of the eye wash. Visually check exposed piping for leaks and corrosion
+Check for corrosion and build up on nozzles and assure nozzles are free of obstructions. Verify valve stay-open feature is operating properly. Verify all hardware is properly secured. 
+Check when activated, the valve remains open until intentionally closed
+Verify the dust covers on the eye wash stations may be pushed away from nozzles by water stream alone.
+Place dust covers back on nozzles. Replace any missing dust covers
+Fill out a repair work order for any problems found
+
+ANSI Z358.1 Chapter 4.7.2 util CCR title 8 Sect 5162 and Legionella control
+
+Monthly
+Once a month - flush unit for at least 5 min. (or until water runs clear)
+
+ANSI Z358.1 Chapter 4.7.2 util CCR title 8 Sect 5162 and Legionella control
+
+
+1 year
+Eye wash stations
+Use clean bucket to check flow rate.
+Remove dust covers from nozzles and divert all water into bucket from the first opening of the valve. Unit must deliver no less than 1.5 liters or 0.4 gal. Per min. For 15 minutes with a soft-spent stream velocity.
+Check bucket for solid contaminants.
+
+
+Performed by: Scripps tech</maintenance>
+        <maintenance_intervals/>
+        <maintenance_standard>Matches other regulatory requirements</maintenance_standard>
+        <maintenance_strategy>Preventive/Scheduled</maintenance_strategy>
+        <manufacturer display_value="Encon Safety">d2f67ced93fd0210397dbd6cebba1010</manufacturer>
+        <model_name>01040128</model_name>
+        <model_number>01040128</model_number>
+        <network_capability/>
+        <phi_storage/>
+        <picture/>
+        <probability/>
+        <processed_by/>
+        <proposed_on/>
+        <proposer_reviewed/>
+        <reason_for_no_pm/>
+        <references/>
+        <risk/>
+        <risk_score/>
+        <severity/>
+        <state>Active</state>
+        <sub_state/>
+        <sys_class_name>x_1307894_cmms_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 03:24:02</sys_created_on>
+        <sys_id>3cb3ed2d93f14210397dbd6cebba10a0</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 19:51:40</sys_updated_on>
+        <system/>
+        <udi/>
+        <useful_life_yrs/>
+        <website/>
+    </x_1307894_cmms_model>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:52:28</sys_created_on>
+        <sys_id>0bfb80f893e60210397dbd6cebba10f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>01040128</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_0bfb80f893e60210397dbd6cebba10f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:52:28</sys_updated_on>
+        <tablename>x_1307894_cmms_model</tablename>
+    </sys_metadata_link>
+</record_update>

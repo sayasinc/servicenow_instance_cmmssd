@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>45bcee2193b94210397dbd6cebba107a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_asset">
+    <x_1307894_cmms_asset action="INSERT_OR_UPDATE">
+        <asset_number>100250094S</asset_number>
+        <assignment_group display_value="Facilities-SMF" name="Facilities-SMF">3e5dc029933d0210397dbd6cebba10bd</assignment_group>
+        <building display_value="4S Ranch">79294f69933d4210397dbd6cebba1095</building>
+        <campus display_value="Scripps Clinics and Coastal Medical Centers">a0777ead93b94210397dbd6cebba108d</campus>
+        <category display_value="Ice Maker">41ef346d93314210397dbd6cebba1091</category>
+        <comments>REFRIGERANT: R404A, 19 OUNCES</comments>
+        <floor/>
+        <installed_date>2021-03-19</installed_date>
+        <known_as>CONSUMABLE</known_as>
+        <location_description>RM#323 BREAKRM</location_description>
+        <manufacturer display_value="Follett">5af67ced93fd0210397dbd6cebba1029</manufacturer>
+        <model/>
+        <model_number/>
+        <original_cost>3437</original_cost>
+        <owning_cost_center>Engineering-4S</owning_cost_center>
+        <pm_last_completed>2024-04-10</pm_last_completed>
+        <pm_start_date>2017-01-01</pm_start_date>
+        <pm_technician/>
+        <purchase_date>2016-01-15</purchase_date>
+        <serial_number>F01613</serial_number>
+        <service_vendor/>
+        <sys_class_name>x_1307894_cmms_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 08:43:00</sys_created_on>
+        <sys_id>45bcee2193b94210397dbd6cebba107a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 15:28:36</sys_updated_on>
+        <warranty_expiration/>
+    </x_1307894_cmms_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:51:40</sys_created_on>
+        <sys_id>17cbc8b893e60210397dbd6cebba10df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100250094S</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_17cbc8b893e60210397dbd6cebba10df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:51:40</sys_updated_on>
+        <tablename>x_1307894_cmms_asset</tablename>
+    </sys_metadata_link>
+</record_update>

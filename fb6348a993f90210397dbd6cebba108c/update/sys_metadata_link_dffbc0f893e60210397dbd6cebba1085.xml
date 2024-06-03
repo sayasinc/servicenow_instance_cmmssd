@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f8b3ed2d93f14210397dbd6cebba10e0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_model">
+    <x_1307894_cmms_model action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aem_approved_date/>
+        <alarms/>
+        <asset_type display_value="Emergency Generator">34ef346d93314210397dbd6cebba105e</asset_type>
+        <assigned_to/>
+        <classification/>
+        <display_name/>
+        <eol_date/>
+        <identifier/>
+        <internal_notes/>
+        <known_as/>
+        <last_pm_review_date>2022-09-01</last_pm_review_date>
+        <maintenance>Schedules: Weekly, monthly, 3 month, 1 &amp; 3 year
+Procedures: 
+Weekly
+Clean space/signs of rodents
+Fuel system
+Main supply tank level
+Day tank level
+Day tank float switch
+Test supply or transfer pump operation
+Test solenoid valve operation
+Flexible hose and connectors
+Air filter
+Lubrication system
+------------------
+Oil level (add if necessary per manufacturer's specifications)
+Oil or block heater
+Cooling system
+--------------
+Level
+Adequate cooling water to heat exchanger per manufacturer's specifications
+Adequate fresh air through radiator 
+Water pump(s)
+Condition of flexible hoses and connection
+Jacket water heater
+Battery system (NFPA 110 2010 edition)
+--------------
+Check battery connections for cleanliness and tightness and record condition in log.
+Check electrolyte level in batteries (refill to proper level with distilled water if needed) per manufacturer's specifications.
+Check battery charger for proper operation. 
+Check charger amperage 
+Electrical system
+-----------------
+General inspection
+General condition of EPSS-any unusual condition of vibration, noise, temperature, or deterioration
+Control switch in auto position
+Visual inspect each Automatic transfer switch
+Disconnect switches
+Overcurrent protective devices (fuses, circuit breakers)
+
+
+Monthly
+Record the following in the generator test log:
+Hour reading: start and stop and total run time
+Oil level - radiator coolant level - day tank level
+Which ATS initiated during load test
+Batteries (avg.): water level and specific gravity
+Time of test: start and stop. Time to start/transfer
+Did all ATS`s transfer? Explain if not.
+Oil pressure - engine water temp - evidence of wet stacking
+Voltage: Phase I, Phase II, Phase III
+Frequency/cycles - hospital load test kw
+Fuel tank level - oil switch returned to normal
+**If load is not at least 30% of nameplate notify mgr to do load bank test
+
+Write PM work order number on any vendor paperwork and scan
+
+
+Also verify services performed by outside contractor
+Visual inspection
+Check oil level
+Check for leaks
+Check / adjust belts
+Check indicator lights
+Check coolant level
+Check hydrometer readings
+Check battery chargers
+Check exhaust stack
+General cleaning
+Perform conductance test for sealed batteries
+
+The monthly tests for diesel-powered emergency generators are conducted with a dynamic load that is at least 30% of the nameplate rating of the generator or meets the manufacturer's recommended prime movers exhaust gas temperature. If the hospital does not meet either the 30% of nameplate rating or the recommended exhaust gas temperature during any test in EC.02.05.07, EP 5, then it must test the emergency generator once every 12 months using supplemental (dynamic or static) loads of 50% of nameplate rating for 30 minutes, followed by 75% of nameplate rating for 60 minutes, for a total of 1 continuous hours. Note: Tests for non-diesel-powered generators need only be conducted with available load.
+
+3 month
+See attached doc
+
+1 year
+Change oil
+Check fresh air intake
+Check filters and breathers 
+Change fuel filters and clean crankcase breathers
+Check and if necessary clean external core of radiator
+ 
+Have qualified outside contractor perform load bank test
+Per JCAHO... Facilities not able to meet the 30% rule must  have (2) hour load bank test performed by qualified outside contractor every year. 
+Per utility meeting 4/5/01 Encinitas, Chula Vista, Green does meet 30% rule - therefore no load bank test required...
+Write PM work order number on any vendor paperwork and scan
+
+
+3 year
+Test generator at least once every 36 months for a minimum of four continuous hours.  This test shall be conducted under a load (dynamic or static) that is at least 30% of the nameplate rating of the generator
+EC 2.5.7.4 - 7/22/15
+At least once every 36 months, hospitals with a generator providing emergency power for the services listed in EC.02.05.03, EPs 5 and 6, test each emergency generator for a minimum of 4 continuous hours. The test results and completion dates are documented. Note: For additional guidance, see NFPA 110-2010, Chapter 8
+
+The 36-month diesel-powered emergency generator test uses a dynamic or static load that is at least 30% of the nameplate rating of the generator or meets the manufacturer's recommended prime movers` exhaust gas temperature. Note: Tests for non-diesel-powered generators need only be conducted with available load
+
+Write PM work number on any vendor paperwork and scan
+
+Performed by: Scripps tech, vendor</maintenance>
+        <maintenance_intervals/>
+        <maintenance_standard>Matches other regulatory requirements</maintenance_standard>
+        <maintenance_strategy>Preventive/Scheduled</maintenance_strategy>
+        <manufacturer display_value="Newage">e6f67ced93fd0210397dbd6cebba1094</manufacturer>
+        <model_name>018</model_name>
+        <model_number>018</model_number>
+        <network_capability/>
+        <phi_storage/>
+        <picture/>
+        <probability>1</probability>
+        <processed_by/>
+        <proposed_on/>
+        <proposer_reviewed/>
+        <reason_for_no_pm/>
+        <references/>
+        <risk/>
+        <risk_score>8</risk_score>
+        <severity>8</severity>
+        <state>Active</state>
+        <sub_state/>
+        <sys_class_name>x_1307894_cmms_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 03:24:02</sys_created_on>
+        <sys_id>f8b3ed2d93f14210397dbd6cebba10e0</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 19:51:41</sys_updated_on>
+        <system/>
+        <udi/>
+        <useful_life_yrs/>
+        <website/>
+    </x_1307894_cmms_model>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:52:29</sys_created_on>
+        <sys_id>dffbc0f893e60210397dbd6cebba1085</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>018</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_dffbc0f893e60210397dbd6cebba1085</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:52:29</sys_updated_on>
+        <tablename>x_1307894_cmms_model</tablename>
+    </sys_metadata_link>
+</record_update>

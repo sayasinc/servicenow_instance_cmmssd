@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>55bcee2193b94210397dbd6cebba10b3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_asset">
+    <x_1307894_cmms_asset action="INSERT_OR_UPDATE">
+        <asset_number>10066</asset_number>
+        <assignment_group display_value="Facilities-GREEN" name="Facilities-GREEN">f65dc029933d0210397dbd6cebba10a0</assignment_group>
+        <building display_value="Shiley Pavilion">f1294f69933d4210397dbd6cebba1091</building>
+        <campus display_value="Scripps Green Hospital Campus">ca257a2d93b94210397dbd6cebba1022</campus>
+        <category display_value="Boiler, Package">fcef346d93314210397dbd6cebba1049</category>
+        <comments/>
+        <floor/>
+        <installed_date>2021-03-19</installed_date>
+        <known_as/>
+        <location_description>LL BOILER ROOM</location_description>
+        <manufacturer display_value="Cleaver Brooks">4af63ced93fd0210397dbd6cebba10d9</manufacturer>
+        <model/>
+        <model_number/>
+        <original_cost>1</original_cost>
+        <owning_cost_center>Engineering-Shiley</owning_cost_center>
+        <pm_last_completed>2024-04-08</pm_last_completed>
+        <pm_start_date>1996-07-01</pm_start_date>
+        <pm_technician/>
+        <purchase_date>1995-11-22</purchase_date>
+        <serial_number>606</serial_number>
+        <service_vendor/>
+        <sys_class_name>x_1307894_cmms_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 08:43:00</sys_created_on>
+        <sys_id>55bcee2193b94210397dbd6cebba10b3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 15:28:36</sys_updated_on>
+        <warranty_expiration/>
+    </x_1307894_cmms_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:51:40</sys_created_on>
+        <sys_id>13cbc8b893e60210397dbd6cebba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10066</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_13cbc8b893e60210397dbd6cebba10f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:51:40</sys_updated_on>
+        <tablename>x_1307894_cmms_asset</tablename>
+    </sys_metadata_link>
+</record_update>

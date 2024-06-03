@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>74ef346d93314210397dbd6cebba103b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_category">
+    <x_1307894_cmms_category action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <category_group>MEDSUN</category_group>
+        <description/>
+        <domain/>
+        <identifier_class/>
+        <name>Bed, Electric</name>
+        <protected_class>false</protected_class>
+        <reportable>Medical</reportable>
+        <reportable_attribute/>
+        <reportable_system/>
+        <source>ECRI</source>
+        <state>Active</state>
+        <sys_class_name>x_1307894_cmms_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 00:47:34</sys_created_on>
+        <sys_id>74ef346d93314210397dbd6cebba103b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 16:51:03</sys_updated_on>
+    </x_1307894_cmms_category>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:54:09</sys_created_on>
+        <sys_id>a75c403c93e60210397dbd6cebba103e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bed, Electric</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_a75c403c93e60210397dbd6cebba103e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:54:09</sys_updated_on>
+        <tablename>x_1307894_cmms_category</tablename>
+    </sys_metadata_link>
+</record_update>

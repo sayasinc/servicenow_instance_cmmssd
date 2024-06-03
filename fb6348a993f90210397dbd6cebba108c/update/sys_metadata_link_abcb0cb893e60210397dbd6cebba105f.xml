@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cdbcee2193b94210397dbd6cebba100a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307894_cmms_asset">
+    <x_1307894_cmms_asset action="INSERT_OR_UPDATE">
+        <asset_number>100050014S</asset_number>
+        <assignment_group display_value="Facilities-SMF" name="Facilities-SMF">3e5dc029933d0210397dbd6cebba10bd</assignment_group>
+        <building display_value="4S Ranch">79294f69933d4210397dbd6cebba1095</building>
+        <campus display_value="Scripps Clinics and Coastal Medical Centers">a0777ead93b94210397dbd6cebba108d</campus>
+        <category display_value="Door, Roll Up">34ef346d93314210397dbd6cebba1059</category>
+        <comments>NOT A FIRE DOOR</comments>
+        <floor/>
+        <installed_date>2021-03-19</installed_date>
+        <known_as>DOCK ROLL UP DOOR</known_as>
+        <location_description>LOADING DOCK</location_description>
+        <manufacturer display_value="Lift Master">2ef67ced93fd0210397dbd6cebba106b</manufacturer>
+        <model/>
+        <model_number/>
+        <original_cost>1</original_cost>
+        <owning_cost_center>Engineering-4S</owning_cost_center>
+        <pm_last_completed>2024-04-17</pm_last_completed>
+        <pm_start_date>2017-01-01</pm_start_date>
+        <pm_technician/>
+        <purchase_date>2017-04-13</purchase_date>
+        <serial_number>232A262184</serial_number>
+        <service_vendor/>
+        <sys_class_name>x_1307894_cmms_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 08:43:00</sys_created_on>
+        <sys_id>cdbcee2193b94210397dbd6cebba100a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 15:25:37</sys_updated_on>
+        <warranty_expiration/>
+    </x_1307894_cmms_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 19:51:41</sys_created_on>
+        <sys_id>abcb0cb893e60210397dbd6cebba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100050014S</sys_name>
+        <sys_package display_value="CMMS" source="x_1307894_cmms">fb6348a993f90210397dbd6cebba108c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMMS">fb6348a993f90210397dbd6cebba108c</sys_scope>
+        <sys_update_name>sys_metadata_link_abcb0cb893e60210397dbd6cebba105f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 19:51:41</sys_updated_on>
+        <tablename>x_1307894_cmms_asset</tablename>
+    </sys_metadata_link>
+</record_update>
